@@ -14,7 +14,7 @@ I am a software tool developer having degree in computational sciences and simul
  Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
 
 # Let's Work Together!
-If you're interested in working with me, please don't hesitate to contact me. You can reach me through my email me at idreees575@gmail.com. I look forward to hearing from you!
+If you're interested in working with me, please don't hesitate to contact me. You can reach me through my email me at idrees@turing-intelligence.com or at idreees575@gmail.com. I look forward to hearing from you!
 
 # Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
