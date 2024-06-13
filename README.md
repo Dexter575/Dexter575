@@ -1,7 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/94797491/224638596-90895925-517a-47e1-bc9f-d2a70c0f3b55.png" alt="Illustration" title="Illustration Storyset" width=200/>
 
 # ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Idrees Muhammad
-
+<div style="text-align: justify">
 I am a software tool developer having degree in computational sciences and simulation engineering with focus on research and development of intelligent algorithms. I have a strong passion for programming and simulation in engineering. My skill set includes mathematical modeling, algorithms development and its implementation in C++/Python. I love crunching FDM, FEA, FVM by writing HPC code and that is exactly where my expertise lies i.e., developing computational physics simulations. 
 </div>
 
