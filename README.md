@@ -8,9 +8,15 @@ I am a software tool developer having degree in computational sciences and simul
 ## 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB®">
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SIMULINK&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="SIMULINK®">
 
  # ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation as a Service </h3></summary>
+ I can help you in creating and implementing  
+ - Realtime Simulation Development
+ - Computational Science Solutions
+ - Numerical Methods Implementation
+ - 
  Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
 
 # Let's Work Together!
