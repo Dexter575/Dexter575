@@ -1,15 +1,40 @@
 <img align="right" src="https://user-images.githubusercontent.com/94797491/224638596-90895925-517a-47e1-bc9f-d2a70c0f3b55.png" alt="Illustration" title="Illustration Storyset" width=200/>
 
-# ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Idrees Muhammad
+# ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Idrees, M
+[Senior Software Architect | Computational Tool Engineer | C++ Developer | HPC]
+
 <div align="justify">
-I am a software tool developer having degree in computational sciences and simulation engineering with focus on research and development of intelligent algorithms. I have a strong passion for programming and simulation in engineering. My skill set includes mathematical modeling, algorithms development and its implementation in C++/Python. I love crunching FDM, FEA, FVM by writing HPC code and that is exactly where my expertise lies i.e., developing computational physics simulations. 
+A Little bit about <b>myself</b>:
+I am a software tool developer having degree in computational sciences and simulation engineering with focus on research and development of intelligent algorithms. I have a strong passion for programming and simulation in engineering. My skill set includes mathematical modeling, algorithms development and its implementation in C++/Python. I love crunching FDM, FEA, FVM by writing HPC code and that is exactly where my expertise lies i.e., developing computational physics simulations.
+</div>
+
+# Consultation & Services:
+<div align="justify">
+📚 Welcome to my professional world, where I transform complex concepts into efficient, high-performance solutions! With a passion for scientific computing, I've spent years at the forefront of numerical simulation, mathematical modeling, and autonomous system design.
+ 
+🔬 As a seasoned C++ Engineer, I've written numerous cutting-edge libraries, empowering simulations in various domains.
+
+📈 Whether it's simulating naturalistic traffic, designing and implementing control laws for various physical process or simulating next-gen autonomous vehicles' sensor using raytracing, I've got you covered.
+
+💡 My journey has involved pushing the boundaries of what's possible, leveraging CUDA for lightning-fast parallel processing. 💻 From HPC clusters to embedded systems, I've unlocked the full potential of C++ and CUDA to tackle the most challenging computational problems.
+
+🌟 I thrive on innovation and am always excited to collaborate on projects that require a unique blend of numerical expertise, mathematical finesse, and a knack for crafting autonomous systems that change the game.
+Let's connect and explore the possibilities of harnessing the power of C++ for your next groundbreaking venture! 🌐
+
+#NumericalSimulation #MathematicalModeling #AutonomousSystems #Cplusplus #CUDA #Innovation #Collaboration
+
+Write me at: idrees@turing-intelligence.com
+
++420 723 436 708
+
 </div>
 
 ## 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB®">
-<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SIMULINK&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="SIMULINK®">
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
+
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SIMULINK&color=%23E34F26&style=for-the-badge&logo=simulink&logoColor=whitesmoke" alt="SIMULINK">
 
  # ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation as a Service </h3></summary>
  I can help you in creating and implementing  
